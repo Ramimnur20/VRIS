@@ -1,0 +1,7 @@
+discord.py>=2.3.0
+aiosqlite
+psutil
+Pillow
+ddgs
+groq
+uwuipy
